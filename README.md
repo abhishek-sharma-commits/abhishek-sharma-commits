@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there, I'm Abhishek M. sharma<br><br>- Full Stack Developer, passionate about building scalable applications and solving real-world problems through code.
+Currently working at the intersection of research and real-world product development, I serve as a Research Fellow at HyperQuark Intelligence Labs™ and a Software Developer at insiderOne AI, while pursuing my Bachelor in Computer Applications.
+
+My core focus lies in Full-Stack MERN development, where I build scalable web applications with an emphasis on microservices architecture, AI integration, and workflow automation using tools like n8n.
+
+I actively bridge academic learning with practical execution—whether it's developing systems, experimenting with AI, or optimizing backend architectures.
+
+Alongside this, I continuously sharpen my skill set through certifications in data science, generative AI, and participation in hackathons. My goal is simple: build systems that are not just functional, but scalable, efficient, and relevant in real-world environments.
 
 
 ## 🌐 Socials:
