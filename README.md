@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Currently working at the intersection of research and real-world product development, I serve as a Research Fellow at HyperQuark Intelligence Labs™ and a Software Developer at insiderOne AI, while pursuing my Bachelor in Computer Applications.
 
 My core focus lies in Full-Stack MERN development, where I build scalable web applications with an emphasis on microservices architecture, AI integration, and workflow automation using tools like n8n.
